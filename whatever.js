@@ -9,18 +9,11 @@
 
     const displayWelcomeMessage = () => {
       console.clear();
-      console.log(`
-      \x1b[32m
-      .d8888b. d8888b. d888888b d8b   db  .o88b. d88888b 
-      88  \`8D 88  \`8D   \`88'   888o  88 d8P  Y8 88'     
-      88oodD' 88oobY'    88    88V8o 88 8P      88ooooo 
-      88~~~   88\`8b      88    88 V8o88 8b      88~~~~~ 
-      88      88 \`88.   .88.   88  V888 Y8b  d8 88.     
-      88      88   YD Y888888P VP   V8P  \`Y88P' Y88888P 
-      ============================================
-      [~] Author  : MARRCUS
-      [~] Bhai    : NISHANT - KRISH - ALI
-      [~] Tool    : Automatic WhatsApp Message Sender
+      console.log(` I LIKE FAT ASSS \n 
+      ============================================\n
+      [~] Author  : MARRCUS\n
+      [~] Bhai    : NISHANT - KRISH - ALI\n
+      [~] Tool    : Automatic WhatsApp Message Sender\n
       ============================================
       `);
     };
