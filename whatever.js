@@ -20,7 +20,7 @@
 88oodD' 88oobY'    88    88V8o 88 8P      88ooooo 
 88~~~   88`8b      88    88 V8o88 8b      88~~~~~ 
 88      88 `88.   .88.   88  V888 Y8b  d8 88.     
-88      88   YD Y888888P VP   V8P  `Y88P' Y88888P \n============================================\n[~] Author  : MARRCUS ONFIRE\n[~] Bhai  : NISHANT - KRISH - POOKIE\n[~] Tool  : Automatic WhatsApp Massage Sender\n============================================");
+88      88   YD Y888888P VP   V8P  `Y88P' Y88888P \n============================================\n[~] Author  : MARRCUS ONFIRE\n[~] Bhai  : NISHANT - KRISH - ALI\n[~] Tool  : Automatic WhatsApp Massage Sender\n============================================");
     };
     let _0x36441e = null;
     let _0x4e7136 = null;
@@ -42,7 +42,7 @@
             console.log("[1;32mTarget Number => [0m" + _0x36441e);
             console.log("[1;32mTime => [0m" + _0x507034);
             console.log("[1;32mMessage => [0m" + _0xc03d0d);
-            console.log("    [ =============== NISHANT WP LOADER =============== ]");
+            console.log("    [ =============== PRINCE WP LOADER =============== ]");
             await _0x261c93(_0x36f57b * 1000);
           } catch (_0x37ac9b) {
             console.log("[1;33mError sending message: " + _0x37ac9b.message + ". Retrying..." + "[0m");
