@@ -69,8 +69,8 @@
 
 
 
-* Credit: Samir Œ 
-* Last Edited on: 20/08/2023
+* Credit: LocDev 
+* Last Edited on: 7/10/2025
 
 
 
