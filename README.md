@@ -1,78 +1,182 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Loc!+🚀;+A+Passionate+Developer+💻;+Always+Learning+New+Things!+✨" />
+</div>
 
-<h1 align="center">Hi , I'm Loc! <img src="https://telegra.ph/file/e5ae04a70cdf3a7763c79.jpg" width="35"></h1>
+<div align="center">
+  <img src="https://telegra.ph/file/553085c5e558b0e4b9cae.jpg" alt="Cover" width="100%"/>
+</div>
 
-![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://telegra.ph/file/553085c5e558b0e4b9cae.jpg)
+---
 
-<p align="center">
-  <a href="https://github.com/khrlmstfa/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Im+Just+Noob;But+I+will+Keep+Learning;I%20|%20Like%20|%20CODING%20:);lets%20study;Together%2Acumalaka%20:)%20:)&center=true&width=500&height=50"></a>
-</p>
-<hr/>
-<h4 align="center">I'm an amateur and Noob.</h4>
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=KhrlMstfa&label=Profile%20views&color=0e75b6&style=plastic" alt="khrlmstfa" /> </p>
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=ThanhLoc04&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+  
+  [![GitHub followers](https://img.shields.io/github/followers/ThanhLoc04?style=for-the-badge&logo=github&color=0891b2)](https://github.com/ThanhLoc04)
+  [![GitHub stars](https://img.shields.io/github/stars/ThanhLoc04?style=for-the-badge&logo=github&color=0891b2)](https://github.com/ThanhLoc04)
+  
+</div>
 
+---
 
+## 👨‍💻 About Me
 
-### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=khrlmstfa&theme=algolia" alt="khrlmstfa"  /></p>
+<div align="center">
+  
+  - 🔭 I'm currently working on **improving my coding skills**
+  - 🌱 I'm currently learning **new technologies and frameworks**
+  - 👯 I'm looking to collaborate on **open source projects**
+  - 💬 Ask me about **Python, Web Development, or anything tech-related**
+  - ⚡ Fun fact: **I love coding and learning new things every day!**
+  - 🎯 Goal: **Become a better developer and contribute to the community**
+  
+</div>
 
-<p align="left"> 
+---
 
+## 🛠️ Tech Stack & Tools
 
-   
-   <a href="https://www.youtube.com/@Samir_OE"><img width="83" hight="100" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/whatsapp_button_icon_151832.png">
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+<div align="center">
+  
+  ### Languages
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  
+  ### Frameworks & Libraries
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  
+  ### Tools & Platforms
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  ### 🔥 Streak Stats
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThanhLoc04&theme=algolia&hide_border=false&border_radius=10)
+  
+  <details>
+    <summary><b>💻 More GitHub Stats</b></summary>
+    <br/>
+    
+    <div align="center">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThanhLoc04&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=false&border_radius=10"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhLoc04&layout=compact&langs_count=8&theme=algolia&hide_border=false&border_radius=10"/>
+    </div>
+    
+    <br/>
+    
+    <div align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThanhLoc04&theme=algolia" alt="Profile Details"/>
+    </div>
+    
+    <p align="center">
+      <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+    </p>
+    
+  </details>
+  
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/ThanhLoc04/ThanhLoc04/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+---
+
+## 🎧 Spotify Playing
+
+<div align="center">
+  
+  [![Spotify](https://now-playing-on-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/hbv7yzic965h9y82w194av0cz)
+  
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+  ![trophy](https://github-profile-trophy.vercel.app/?username=ThanhLoc04&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+  
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThanhLoc04&theme=react-dark&hide_border=true&area=true)
+  
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+  
+  <a href="https://github.com/ThanhLoc04" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+</div>
 
-</p>
+---
 
+<div align="center">
+  
+  ### 💝 Support Me
+  
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/)
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/)
+  
+</div>
 
+---
 
-------
-
-### 📊 Github Stats (Expand to View) 
-
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/khrlmstfa/github-readme-stats"><img alt="khrlmstfa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khrlmstfa&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eabdalmufid&show_icons=true&locale=en&layout=compact&theme=algolia" alt="eabdalmufid" height="192px"/>
-  <br/>
-<br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
-</details>
-
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
-</p>
-
-### 🎧 Spotify Playing
-
-<p align="center">
-  <a href="https://open.spotify.com/user/hbv7yzic965h9y82w194av0cz" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
-</p>
-
-### 🙋‍♀️ Let's Connect
-<p align="center">
-	<a href="https://github.com/ThanhLoc04/"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://instagram.com/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	
-</p>
-
-
-
-* Credit: LocDev 
-* Last Edited on: 7/10/2025
-
-
-
-
-
+<div align="center">
+  
+  ![Visitor Count](https://profile-counter.glitch.me/ThanhLoc04/count.svg)
+  
+  ---
+  
+  <div align="center">
+    <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="200"/>
+  </div>
+  
+  ---
+  
+  <div align="center">
+    <b>Credit:</b> <a href="https://github.com/ThanhLoc04">LocDev</a>
+    <br/>
+    <b>Last Edited:</b> 7/10/2025
+  </div>
+  
+</div>
